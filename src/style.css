@@ -1,0 +1,12 @@
+.title {
+    font-size: 40px;
+    font-family:cursive
+}
+
+.red {
+    color: red;
+    background:linear-gradient(0.25turn, #afdff3, #ebf8e1, #f7d2aa); 
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 15px;
+}
